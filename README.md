@@ -1,4 +1,4 @@
-# excel-formula-auditor — case study
+# excel-formula-auditor, case study
 
 Static analysis for Excel workbooks. Catches silent formula bugs, fragile sums, `VLOOKUP` traps, and structural risks that hide inside spreadsheets people bet payroll on.
 
